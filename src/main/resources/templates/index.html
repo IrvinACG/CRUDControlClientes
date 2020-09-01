@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org"
+      xmlns:sec="http://www.org.thymeleaf.org/extras">
+    <head th:replace="/components/plantilla :: head(page='Inicio')">      
+    </head>
+    <body>
+        <header th:replace="/components/plantilla :: header"></header>
+        <div class="vh-80">
+            <section th:replace="/components/botonesAgregar :: botonesAgregar"></section>
+            <section th:replace="/components/agregarCliente :: agregarCliente"></section>
+            <section th:replace="/components/listadoCliente :: listadoCliente"></section>
+        </div>        
+        <footer th:replace="/components/plantilla :: footer"></footer>
+
+    </body>
+</html>

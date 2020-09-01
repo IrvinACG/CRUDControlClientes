@@ -1,0 +1,18 @@
+<html xmlns:th="http://www.thymeleaf.org" xmlns="http://www.w3.org/1999/xhtml">
+    <head th:replace="/components/plantilla :: head(page='403')">   
+    </head>
+    <body>
+        <div class="container " >
+            <div class="d-flex align-items-center justify-content-center" style="height: 90vh;" >
+                <h1 class="text-center display-4">
+                    ERROR 403 <br/> Permiso no autorizado<br/>
+                <a th:href="@{/}" class="btn btn-warning my-5">Regresar</a>
+                </h1>
+                
+            </div>
+
+        </div>
+
+        <footer th:replace="/components/plantilla :: footer"></footer>
+    </body>
+</html>
