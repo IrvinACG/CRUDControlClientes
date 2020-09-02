@@ -4,7 +4,11 @@ Es un CRUD de Persona realizado en Java para el backend utilizando el framework 
 ## Tecnologias usadas
 
 ->Spring MVC
+
 ->Thymeleaf
+
 ->Spring Data
+
 ->Spring Security
+
 ->Bootstrap
