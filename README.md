@@ -14,4 +14,15 @@ Es un CRUD de Persona realizado en Java para el backend utilizando el framework 
 ->Bootstrap
 
 ## Capturas
-Pagina Principal (https://raw.githubusercontent.com/IrvinACG/CRUDControlClientes/master/PaginaPrincipal.PNG)
+
+Login
+![Login](https://raw.githubusercontent.com/IrvinACG/CRUDControlClientes/master/Login.PNG)
+
+Pagina Principal
+![Pagina Principal](https://raw.githubusercontent.com/IrvinACG/CRUDControlClientes/master/PaginaPrincipal.PNG)
+
+Agregar
+![Agregar](https://raw.githubusercontent.com/IrvinACG/CRUDControlClientes/master/Agregar.PNG)
+
+Editar
+![Editar](https://raw.githubusercontent.com/IrvinACG/CRUDControlClientes/master/Editar.PNG)
