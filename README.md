@@ -1,2 +1,8 @@
 # CRUDControlClientes
-Es un CRUD de Persona realizado con el Framework SpringBoot, donde se uso Spring Security para la validacion de sesion y de permiosos.
+Es un CRUD de Persona realizado en Java para el backend utilizando el framework SpringBoot
+Tecnologias usadas
+->Spring MVC
+->Thymeleaf
+->Spring Data
+->Spring Security
+->Bootstrap
